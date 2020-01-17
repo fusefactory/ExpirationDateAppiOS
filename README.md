@@ -8,7 +8,7 @@ Here you can find a simple script to retrive expiration date for an app iOS star
 
 2)Add execution permisions
 
-`chmod +x chmod +x expiration-date-app-ios.sh`
+`chmod +x expiration-date-app-ios.sh`
 
 3)Run the script
 
